@@ -1,5 +1,17 @@
 """
 File: twinkle.py
+
+w3resource: 
+Write a Python program to print the following string in a specific format (see the output). 
+Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are"
+Output :
+Twinkle, twinkle, little star,
+	How I wonder what you are! 
+		Up above the world so high,   		
+		Like a diamond in the sky. 
+Twinkle, twinkle, little star, 
+	How I wonder what you are
+
 Description: The provided string is formatted with proper indentation using escape sequences such as newline (\n) and tab (\t). 
 Date: May 27, 2023
 """
